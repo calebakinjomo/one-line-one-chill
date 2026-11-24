@@ -8,7 +8,7 @@ The line: a 3 a.m. baby-monitor whisper that turns the safest room in
 the house — a child's bedroom, a mother listening in — into the trap.
 The dread lands in one breath: the child is already in danger, the
 mother is already (according to the stranger) dead, and the sentence
-ends before anyone can act.
+ends before anyone can act. (Reviser pass: docstring only; entry unchanged.)
 """
 
 import os
